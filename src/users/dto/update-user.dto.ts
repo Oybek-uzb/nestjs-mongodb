@@ -1,7 +1,7 @@
 export class UpdateUserDTO {
-    firstName: string
-    lastname: string
-    email: string
-    age: number
-    favouriteFoods: [string]
+  firstName: string;
+  lastName: string;
+  email: string;
+  age: number;
+  favouriteFoods: string[];
 }
